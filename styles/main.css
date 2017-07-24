@@ -1,14 +1,23 @@
 body{
-    background:tan;
+    background-image: url("/Users/Owner/web-dev/homepage/bin/rover_background.jpeg");
     font-family:Trebuchet MS;
 }
 
 h1 {
-    color:#000;
+    color:white;
+    text-align:center;
 }
 
 h5 {
-    color:#555;
+    color:white;
+    text-align:center
 }
 
+#icons div {
+  display: inline-block;
+  text-align:center
+}
 
+a.nasa_logo {
+    position: absolute
+}
